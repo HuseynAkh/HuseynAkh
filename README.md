@@ -1,4 +1,4 @@
-<img alt="Bergeron Centre for Engineering Excellence" width="300px" src="./img/lassonde_bergeron.jpg/" >
+<img alt="Bergeron Centre for Engineering Excellence" width="1200px" src="./img/lassonde_bergeron.jpg/" >
 
 # Huseyn Akhundov
 
