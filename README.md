@@ -4,8 +4,8 @@ I'm a Computer Science student and an open-source software enthusiast 🌱
 
 ## Languages and Skills
 - 🌐 HTML, CSS, Javascript
-- ☕ Java
 - 💻 Linux, C
+- ☕ Java
 - ⟠ Solidity
 
 ## Contact Me / Socials
