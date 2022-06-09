@@ -9,4 +9,4 @@
 - ⟠ Solidity
 
 ## Social
-[![website](./img/linkedin.svg)](https://linkedin.com/in/huseyn-akhundov/)
+[![LinkedIn](./img/linkedin.png)](https://linkedin.com/in/huseyn-akhundov/)
