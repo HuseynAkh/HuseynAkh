@@ -2,7 +2,7 @@
 
 # Huseyn Akhundov
 
-I'm a Computer Science student and an open-source software enthusiast 🌱
+I'm a Computer Science student at the Lassonde School of Engineering. I greatly enjoy open-source software and take pride in teamwork 🌱
 
 ## Languages and Skills
 - 🌐 HTML, CSS, Javascript
