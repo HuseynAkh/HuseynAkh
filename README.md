@@ -8,5 +8,5 @@ I'm a Computer Science student and an open-source software enthusiast 🌱
 - 💻 Linux, C
 - ⟠ Solidity
 
-## Find me on
+## Contact and Socials
 [<img alt="LinkedIn" width="40px" src="./img/linkedin.png" />](https://linkedin.com/in/huseyn-akhundov/)
