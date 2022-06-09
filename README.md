@@ -1,4 +1,6 @@
-## Hi there, I'm Huseyn 👋
+[<img alt="Bergeron Centre for Engineering Excellence" src="./img/lassonde_bergeron.jpg/"]
+
+## Huseyn Akhundov
 
 I'm a Computer Science student and an open-source software enthusiast 🌱
 
