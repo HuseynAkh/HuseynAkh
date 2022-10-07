@@ -10,5 +10,5 @@ Hardware: RISC-V, Verilog
 General: React.js, Node.js, Arduino, Linux (Debian, Fedora), Git, Server administration  
 Development Software: IntelliJ, Atom, Visual Studio Code, Eclipse, Nano  
 
-## Contact Me / Socials
+## Connect with Me  
 [<img alt="LinkedIn" width="40px" src="./img/linkedin.png" />](https://linkedin.com/in/huseyn-akhundov/)
