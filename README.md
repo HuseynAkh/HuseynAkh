@@ -8,7 +8,7 @@ I'm a Computer Science student at the Lassonde School of Engineering. I greatly 
 **Languages:** JavaScript, C, Python, Java, Solidity, HTML, CSS, Bash  
 **Hardware:** RISC-V, Verilog  
 **General:** React.js, Node.js, Arduino, Linux (Debian, Fedora), Git, Server administration  
-**Development** Software: IntelliJ, Atom, Visual Studio Code, Eclipse, Nano  
+**Development:** Software: IntelliJ, Atom, Visual Studio Code, Eclipse, Nano  
 
 ## Connect With Me  
 [<img alt="LinkedIn" width="40px" src="./img/linkedin.png" />](https://linkedin.com/in/huseyn-akhundov/)
