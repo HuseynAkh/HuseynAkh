@@ -5,8 +5,8 @@
 I'm a Computer Science student at the Lassonde School of Engineering. I greatly enjoy open-source software and take pride in teamwork 🌱
 
 ## Featured Projects
-### <ins>Personal Website</ins> : [huseyn-akh.com](https://huseyn-akh.com/)
-### <ins>Investment Tracker</ins> : [Click for live demo](https://huseynakh.github.io/InvestmentPortfolio/)
+#### Personal Website : [huseyn-akh.com](https://huseyn-akh.com/)
+#### Investment Tracker : [web demo](https://huseynakh.github.io/InvestmentPortfolio/)
 
 ## Languages and Skills
 **Languages:** JavaScript, C, Python, Java, Solidity, HTML, CSS, Bash  
