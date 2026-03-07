@@ -1,18 +1,14 @@
-<img alt="Bergeron Centre for Engineering Excellence" width="1100px" src="./img/lassonde_bergeron.jpg/" >
-
 # Huseyn Akhundov
+Based in Toronto
 
-I'm a Computer Science student at the Lassonde School of Engineering. I greatly enjoy open-source software and take pride in teamwork 🌱
+#### Founder @ [Nobl Kids](https://noblkids.com)
+Parents find and enroll in local kids activities.  
+Providers grow enrollments and fill their classes.
+<br>
 
-## Featured Projects
-#### Personal Website : [huseyn-akh.com](https://huseyn-akh.com/)
-#### Investment Tracker : [web demo](https://huseynakh.github.io/InvestmentPortfolio/)
+#### Active Sideprojects:  
+[Helm](https://github.com/HuseynAkh/Helm) – A Nautilus style file manager for macOS, supercharged.
 
-## Languages and Skills
-**Languages:** JavaScript, C, Python, Java, Solidity, HTML, CSS, Bash  
-**Hardware:** RISC-V, Verilog  
-**General:** React.js, Node.js, Arduino, Linux (Debian, Fedora), Git, Server administration  
-**Development:** Software: IntelliJ, Atom, Visual Studio Code, Eclipse, Nano  
+<br>
 
-## Connect With Me  
 [<img alt="LinkedIn" width="40px" src="./img/linkedin.png" />](https://linkedin.com/in/huseyn-akhundov/)
