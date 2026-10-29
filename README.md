@@ -1,16 +1,12 @@
 # Huseyn Akhundov
-Based in Toronto
 
-#### Founder @ [Nobl Kids](https://noblkids.com)
-Parents find and enroll in local kids activities.  
-Providers grow enrollments and fill their classes.
-<br>
+Co-founder of [Nobl Kids](https://noblkids.com).
 
-#### Active Sideprojects:  
-[Helm](https://github.com/HuseynAkh/Helm) – A Nautilus style file manager for macOS, supercharged.
+We're building a personal AI learning guide for kids, starting with one-on-one math tutoring. Kids work through problems with voice and a shared board. Parents see what they're learning and where they need help.
 
-[SimpleTimer](https://github.com/HuseynAkh/SimpleTimer) – A native iPhone timer with history, AI export and an Apple Watch remote.
+## Things I've built
 
-<br>
+- [SimpleTimer](https://github.com/HuseynAkh/SimpleTimer): A time tracker and focus app to understand how I work. Optional Pomodoro sessions, an Apple Watch companion, and data export for AI analysis.
+- [Helm](https://github.com/HuseynAkh/Helm): A simpler macOS file manager for finding and organizing files.
 
-[<img alt="LinkedIn" width="40px" src="./img/linkedin.png" />](https://linkedin.com/in/huseyn-akhundov/)
+[LinkedIn](https://linkedin.com/in/huseyn-akhundov/)
