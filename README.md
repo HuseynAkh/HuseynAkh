@@ -9,6 +9,8 @@ Providers grow enrollments and fill their classes.
 #### Active Sideprojects:  
 [Helm](https://github.com/HuseynAkh/Helm) – A Nautilus style file manager for macOS, supercharged.
 
+[SimpleTimer](https://github.com/HuseynAkh/SimpleTimer) – A native iPhone timer with history, AI export and an Apple Watch remote.
+
 <br>
 
 [<img alt="LinkedIn" width="40px" src="./img/linkedin.png" />](https://linkedin.com/in/huseyn-akhundov/)
